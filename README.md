@@ -1,6 +1,6 @@
-#CRUDS
-##Do DEV Soutinho
-
-####PAra Estudos
+# CRUDS
+## Do DEV Soutinho
+ 
+#### Para Estudos
 
 :smiley:
